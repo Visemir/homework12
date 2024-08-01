@@ -16,4 +16,6 @@ The nginx configuration should be located at [/etc/nginx/conf.d/default.conf](ht
 
 As a result, you should push your [docker-compose.yml](https://github.com/Visemir/homework12/blob/main/docker-compose.yml), [nginx configuration file](https://github.com/Visemir/homework12/blob/main/nginx/default.conf), source code of your [application](https://github.com/Visemir/homework12/blob/main/app/app.py) and screenshots demonstrating that the setup works (e.g., a successful request made to the nginx proxy).
 
+![](https://github.com/Visemir/homework12/blob/main/dockerps.jpg)
+
 ![](https://github.com/Visemir/homework12/blob/main/site.jpg)
