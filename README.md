@@ -1,6 +1,6 @@
 docker-compose.yml
 
-Part 1
+Part 1/1
 
 Create a [docker-compose.yml](https://github.com/Visemir/homework12/blob/main/docker-compose.yml) file based on [Homework 11.](https://github.com/Visemir/homework12/tree/main/app)
 
